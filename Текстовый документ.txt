@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 +print("Hello World!");
-fgg
+gg
+ghg

@@ -1,6 +1,6 @@
-+print("Hello World!");
+asdsad+print("Hello World!");
 GG
 gg
 g
 f
-ds
+dsы
